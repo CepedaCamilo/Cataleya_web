@@ -522,12 +522,14 @@ figcaption {
   margin-top: 14px;
   padding-bottom: 0;
   font-family: Carson Sans, Arial, sans-serif;
+  font-size: 22px;
   font-weight: 400;
+  line-height: 180%;
   display: flex;
 }
 
 .logo {
-  height: 130px;
+  height: 160px;
   margin-left: 0;
   padding-left: 0;
 }
@@ -1952,6 +1954,7 @@ figcaption {
   }
 
   .nav-menu {
+    opacity: 1;
     border-radius: 0;
     margin-top: 18px;
   }
@@ -1963,7 +1966,7 @@ figcaption {
   }
 
   .nav-link {
-    opacity: 100;
+    opacity: 1;
     background-image: linear-gradient(#f8f2e82b, #f8f2e82b);
     padding-top: 6px;
     padding-bottom: 6px;
