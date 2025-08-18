@@ -2291,9 +2291,10 @@ figcaption {
   }
 
   .html-embed {
-    border-radius: 80px;
+    border-radius: 0;
     margin-top: 60px;
     margin-bottom: 60px;
+    position: static;
   }
 
   .grid-2 {
